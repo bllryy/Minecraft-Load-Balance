@@ -1,4 +1,4 @@
-package io.spigotrce.mclb.server.protcol;
+package io.bllry.mclb.server.protcol;
 
 public class Property {
   private String name;

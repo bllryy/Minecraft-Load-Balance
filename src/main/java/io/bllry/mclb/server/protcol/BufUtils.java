@@ -1,4 +1,4 @@
-package io.spigotrce.mclb.server.protcol;
+package io.bllry.mclb.server.protcol;
 
 import com.google.common.base.Function;
 import com.google.common.base.Preconditions;

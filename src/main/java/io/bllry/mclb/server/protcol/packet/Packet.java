@@ -1,7 +1,7 @@
-package io.spigotrce.mclb.server.protcol.packet;
+package io.bllry.mclb.server.protcol.packet;
 
 import io.netty.buffer.ByteBuf;
-import io.spigotrce.mclb.server.protcol.ProtocolDirection;
+import io.bllry.mclb.server.protcol.ProtocolDirection;
 
 import java.io.IOException;
 

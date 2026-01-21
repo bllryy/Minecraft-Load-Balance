@@ -1,4 +1,4 @@
-package io.spigotrce.mclb.server;
+package io.bllry.mclb.server;
 
 public class LBServer {
   public static void main(String[] args) {
